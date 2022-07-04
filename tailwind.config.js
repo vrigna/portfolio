@@ -10,7 +10,10 @@ module.exports = {
         'poppins': "'Poppins', sans-serif"
       },
       colors: {
-        accent: '#4ED3A3'
+        accent: '#4ED3A3',
+        light: '#f8f8f8',
+        'backg-dark': '#1b2523',
+        shadow: '#273532'
       }
     },
   },

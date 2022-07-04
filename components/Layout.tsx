@@ -5,7 +5,7 @@ import { Navbar } from './Navbar'
 
 const Layout: React.FC = ({ children }) => {
   return (
-    <div>
+    <div className='bg-backg-dark text-light '>
       <Navbar/ >
         { children }
       <Footer/ >
